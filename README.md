@@ -52,7 +52,8 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 * Kali Nethunter
 * Termux ( Rooted Devices)
 * Parrot OS
-* TOMI ACO TOMI NAY
+* তুমি আছো তুমি নাই 
+
 
 
 # Installation
