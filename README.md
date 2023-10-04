@@ -64,7 +64,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 ```bash
 1) sudo apt-get update && apt-get install git
 2) sudo git clone https://github.com/Gtajisan/Wifi-Hacking2
-3) cd Wifi-Hacking/
+3) cd Wifi-Hacking2
 4) sudo python3 Wifi-Hacking2.py
 ```
 
